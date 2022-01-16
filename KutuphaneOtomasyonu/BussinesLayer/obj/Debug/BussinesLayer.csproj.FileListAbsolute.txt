@@ -1,0 +1,11 @@
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\obj\Debug\BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\obj\Debug\BussinesLayer.csproj.CopyComplete
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\BussinesLayer\obj\Debug\BussinesLayer.pdb

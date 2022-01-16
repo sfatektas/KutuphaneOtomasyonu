@@ -1,0 +1,6 @@
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

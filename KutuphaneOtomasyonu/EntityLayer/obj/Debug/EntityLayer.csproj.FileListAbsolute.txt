@@ -1,0 +1,6 @@
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\EntityLayer\obj\Debug\EntityLayer.pdb

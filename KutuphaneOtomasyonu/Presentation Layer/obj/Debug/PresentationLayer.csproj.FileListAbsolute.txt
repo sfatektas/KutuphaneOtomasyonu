@@ -1,0 +1,77 @@
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\aces.exe.config
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\aces.exe
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\aces.pdb
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.Properties.Resources.resources
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.exe
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.pdb
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.AnaSayfa.resources
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\kutuphaneson.mdb
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.deneme.resources
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.Ekle_Sil_Guncelle.resources
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.OgrenciDetay.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\kutuphaneson.mdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\aces.exe.config
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\aces.exe
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\aces.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.deneme.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.AnaSayfa.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.Ekle_Sil_Guncelle.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.OgrenciDetay.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.Properties.Resources.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.exe
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\aces.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\BussinesLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\EntityLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\DataAccessLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\BussinesLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\EntityLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\bin\Debug\DataAccessLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\aces.Properties.Resources.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\aces.exe
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\aces.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\aces.exe.config
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\aces.exe
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\aces.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\BussinesLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\EntityLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\BussinesLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\EntityLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.AnaSayfa.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Ekle_Sil_Guncelle.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Kitapİslemleri.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Ogrenci_EmanetVer_Detay.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Ogrenci_Emanet_Iade_islemleri.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Ogrenci_emanetislemeleri.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.OgrenciDetay.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.KitapEklemeSilmeGuncelleme.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.KitapEmanetİadeListesi.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Ogrenci_iade.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.yazarislemleri.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\obj\Debug\PresentationLayer.Grafik.resources
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\ZedGraph.xml
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\SEFA$$\Desktop\KütüphaneProjeDeneme\Presentation Layer\bin\Debug\zh-tw\ZedGraph.resources.dll

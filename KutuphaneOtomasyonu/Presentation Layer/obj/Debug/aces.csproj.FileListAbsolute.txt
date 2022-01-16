@@ -1,0 +1,10 @@
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\aces.exe.config
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\aces.exe
+C:\Users\SEFA$$\source\repos\aces\bin\Debug\aces.pdb
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.csproj.AssemblyReference.cache
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.Form1.resources
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.Properties.Resources.resources
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.csproj.GenerateResource.cache
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.csproj.CoreCompileInputs.cache
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.exe
+C:\Users\SEFA$$\source\repos\aces\obj\Debug\aces.pdb
